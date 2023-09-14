@@ -1,8 +1,11 @@
 # Tugas 1 Mencari Objek di sekitar
 
 Nama : Muhammad Kemal Nugraha
+
 NIM : 2241720044
+
 Kelas : 2C 
+
 Absen : 17
 
 ## 1. Telepon
@@ -11,6 +14,7 @@ State:
 - Model
 - Status koneksi 
 - Tingkat baterai
+
 Behavior:
 - Menelpon
 - Isi daya
@@ -23,6 +27,7 @@ State:
 - Banyak tungku
 - Jenis kompor
 - Suhu
+
 Behavior:
 - Meningkatkan suhu
 - Mengurangi suhu
@@ -34,7 +39,8 @@ State:
 - Merek 
 - Suhu
 - Jenis setrika
-- Banyak watt yang dikonsumsi 
+- Banyak watt yang dikonsumsi
+
 Behavior:
 - Menyalakan
 - Mematikan
@@ -47,6 +53,7 @@ State:
 - Suhu
 - Isi kulkas 
 - Pintu terbuka
+
 Behavior:
 - Mengurangi suhu
 - Meningkatkan suhu
@@ -60,6 +67,7 @@ State:
 - Kekuatan lumens
 - Level baterai 
 - Mode lampu
+
 Behavior: 
 - Menyalakan
 - Mematikan
