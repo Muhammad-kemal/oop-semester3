@@ -4,3 +4,5 @@
 <br>NIM   : 2241720044
 <br>Kelas : 2C
 <br>Absen : 17
+
+#### P.S : disarankan pakai vscode untuk preview file md, di github jadinya berbeda
