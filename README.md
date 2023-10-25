@@ -15,3 +15,4 @@
 - <a href="https://github.com/mkemaln/oop-semester3/tree/main/Quiz%201">Quiz 1</a>
 - <a href="#">Laporan Jobsheet 5</a>
 - <a href="https://github.com/mkemaln/oop-semester3/blob/main/P6_Muhammad%20Kemal%20Nugraha_Inheritance2/Laporan%20Jobsheet6%20-%20Inheritance2.md">Laporan Jobsheet 6</a>
+- <a href="https://github.com/mkemaln/oop-semester3/tree/main/UTS">UTS</a>
