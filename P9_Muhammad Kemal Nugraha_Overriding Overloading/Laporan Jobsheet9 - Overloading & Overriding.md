@@ -128,7 +128,7 @@ void perkalian(int a, int b, int c){
     }
 ```
 
-2. Jika terdapat overloading ada berapa jumlah parameter yang berbeda? 
+2. Jika terdapat overloading ada berapa jumlah parameter yang berbeda? <br>
 ![](img/Aspose.Words.11f73f82-d09f-4b7e-8394-ddb76afc5c2a.017.png) <br>
 jawab : <br>
 Dari source code diatas terdapat 2 function yang memiliki 2 parameter yang berbeda.
@@ -145,7 +145,7 @@ void perkalian(double a, double b){
     }
 ```
 
-4. Jika terdapat overloading ada berapa tipe parameter yang berbeda? 
+4. Jika terdapat overloading ada berapa tipe parameter yang berbeda? <br>
 ![](img/Aspose.Words.11f73f82-d09f-4b7e-8394-ddb76afc5c2a.020.png) <br>
 jawab : <br>
 Pada source code diatas tidak terdapat overloading karena parameter dari kedua fungsi dengan nama yang sama masih sama.
